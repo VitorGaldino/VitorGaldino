@@ -1,4 +1,6 @@
-🤝 Estou procurando ajuda com outros frameworks<br>🌱 Atualmente estou aprendendo JS, Spring e React<br>💬 Fale comigo em: vitorgaldino30@gmail.com ou LinkedIn<br>⚡ Curiosidades: Parte da minha familia paterna já teve uma banda de forró. Quase fui jogador de futebol. Meu primeiro videogame foi um Master System.
+## Olá, blz? Eu sou o Vittu e você está no meu GitHub, seja bem vindo! 😄
+
+-🤝 Estou procurando ajuda com outros frameworks<br> -🌱 Atualmente estou aprendendo JS, Spring e React<br> -💬 Fale comigo em: vitorgaldino30@gmail.com ou LinkedIn<br>⚡ Curiosidades: Parte da minha familia paterna já teve uma banda de forró. Quase fui jogador de futebol. Meu primeiro videogame foi um Master System.
 
 
 ## 🌐 Socials:
