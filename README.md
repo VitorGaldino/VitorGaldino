@@ -15,3 +15,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VitorGaldino&icon=9&color=0)](https://visitcount.itsvg.in)
+<div>
+  ![Snake animation](https://github.com/VitorGaldino/VitorGaldino/blob/output/github-contribution-grid-snake.svg)
+ </div>
