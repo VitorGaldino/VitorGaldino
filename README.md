@@ -12,7 +12,6 @@
 # 📊 GitHub Stats:
 
 ![VitorGaldino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorGaldino&theme=highcontrast&hide_border=false)
-![VitorGaldino's Top Languages]
 
 ---
 
