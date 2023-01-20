@@ -13,7 +13,7 @@
 
 ![VitorGaldino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorGaldino&theme=highcontrast&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/VitorGaldino/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/VitorGaldino/github-readme-stats)
+
 
 ---
 
